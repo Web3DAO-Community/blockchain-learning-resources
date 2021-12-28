@@ -65,6 +65,7 @@ Click the image to view on YouTube.
 | How to become a blockchain developer in 2021 | [![video](https://img.youtube.com/vi/OwSl2xwl2-w/0.jpg)](https://www.youtube.com/watch?v=OwSl2xwl2-w) | 1h 28m 20s |
 | How To Become a Blockchain Developer (Full Roadmap) | [<img src="https://user-images.githubusercontent.com/68073132/135997177-23e759e3-2e18-4196-b1d7-746094edb237.jpeg" height="250" width="500">](https://www.youtube.com/watch?v=P87pLayUD8c) | 14m 13s |
 | How to Become an Ethereum Smart Contract Engineer (Road Map 2021) | [![video](https://i.ytimg.com/vi/WFjeWP148jM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1g6xhhY-nOsmMNxsHKl8JewJZHg)](https://www.youtube.com/watch?v=WFjeWP148jM&t=20s)| 14m 17s |
+| Everything you need to know about blockchain - Code Eater | [![video](https://img.youtube.com/vi/fC-q32rMDUM/maxresdefault.jpg)](https://www.youtube.com/c/CodeEater21/playlists)| Playlist
 
 ## Development Guide
 
